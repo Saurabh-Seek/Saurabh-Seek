@@ -6,9 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   <div align="center">
-    <h1 color:"green" fontsize:"4px">This Is LinkedIn Link</h1>
+    <h1 style={color:"green"} fontsize:"4px">Linkedin Link</h1>
     https://www.linkedin.com/in/saurabh-kumar-4b407323b/
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" width:"100%"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style={width:"100%"}/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
